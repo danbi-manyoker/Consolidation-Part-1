@@ -1,0 +1,115 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.949753,45.367943 ]
+    },
+    "properties": {
+    "label":"Centre of our Map!"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.949079,45.367852 ]
+    },
+    "properties": {
+    "label":"SIRCC-01"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.949097,45.367864 ]
+    },
+    "properties": {
+    "label":"SIRCC-02"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.94918,45.36793 ]
+    },
+    "properties": {
+    "label":"SIRCC-03"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.949196,45.367945 ]
+    },
+    "properties": {
+    "label":"SIRCC-04"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.949133,45.367807 ]
+    },
+    "properties": {
+    "label":"SIRCC-05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.949161,45.36783 ]
+    },
+    "properties": {
+    "label":"SIRCC-06"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.949249,45.367901 ]
+    },
+    "properties": {
+    "label":"SIRCC-07"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.949325,45.367809 ]
+    },
+    "properties": {
+    "label":"SIRCC-08"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.94939,45.367856 ]
+    },
+    "properties": {
+    "label":"SIRCC-09"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.949616,45.367815 ]
+    },
+    "properties": {
+    "label":"SIRCC-10"
+    }
+  }
+]
+}
